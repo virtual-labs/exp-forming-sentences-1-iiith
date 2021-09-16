@@ -3,6 +3,18 @@
 <head>
 	<!-- Add CSS at the head of HTML file -->
 	<link rel="stylesheet" href="./css/main.css">
+<script type="text/javascript">
+
+function getOption(lang){
+	if(lang=="null")
+	{
+		alert("Select language");
+		return;
+	}
+	$('#words_sentence').load('CLexp1.php?lang='+lang+'&words_selected=%&words=%&possible_sent=%&turn=0&position=%');
+}
+
+</script>
 	</head>
 <body>
 		<!-- Your code goes here-->
@@ -21,5 +33,6 @@
 </div>
 </div>
 	<script src="./js/main.js"></script>
+    <script src="../js/jquery.js"></script>
 </body>
 </html>
