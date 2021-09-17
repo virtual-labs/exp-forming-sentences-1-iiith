@@ -29,7 +29,7 @@
     },
     {
       "target": "assignment",
-      "source": "assignment",
+      "source": "assignment.md",
       "label": "Assignment",
       "unit-type": "task",
       "content-type": "simulation"
