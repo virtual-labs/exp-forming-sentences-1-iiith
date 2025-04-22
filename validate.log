@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-forming-sentences-1-iiith/exp-forming-sentences-1-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-forming-sentences-1-iiith/exp-forming-sentences-1-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true

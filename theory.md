@@ -1,0 +1,7 @@
+A Sentence consists of one or more words which are linked grammatically. It can express a statement, question, exclamation, request, command or suggestion. Grammar varies from one language to other. English is a language which follows a order Subject, Verb, Object and Hindi generally follows Subject, Object, Verb. Hindi is a free word order language. Ram eats an apple, राम सेब खाता है are the sentences in English and Hindi respectively which follows the order of their language.
+
+Sentences in free word order languages can be said in many form like: राम सेब खाता है, सेब राम खाता है, खाता है राम सेब. Language like English which is not a free order language cannot have sentences Ram eats an apple and Apple eats a Ram with the same sense. Both the sentences have different sense. In the first sentence, Ram is performing an action of eating and apple is being eaten. According to the second sentence, apple is doing the action of eating and Ram is being eaten. But second sentence id logically incorrect because apple lacks an ability to perform some action.
+
+Sentence formation not only requires grammatical knowledge but also world knowledge. ex: Ram eats a table is grammatically correct but logically incorrect, because person cannot eat a table.
+
+In this experiment, you need to form logically correct sentences. 
